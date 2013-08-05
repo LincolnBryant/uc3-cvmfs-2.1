@@ -1,0 +1,3 @@
+CVMFS_CACHE_BASE=/scratch/cvmfs/cache
+CVMFS_HTTP_PROXY="http://uct2-grid1.uchicago.edu:3128;DIRECT"
+CVMFS_REPOSITORIES="osg.mwt2.org,uc3.uchicago.edu,oasis.opensciencegrid.org,atlas.cern.ch"
